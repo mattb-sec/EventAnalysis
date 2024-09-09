@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 One of the main problems with cyber security and digital investigations is that there is a notable lack of physical evidence to suggest that an event took place. Rather than fingerprints, murder weapons, or a mountain of cocaine stashed in a summer home in Columbia, digital investigators must instead look through logs of captured network traffic in order to find their perpetrator and, more importantly, exactly what happened. And yet, in the same way that an expert forensic investigator can tell a great deal about an incident only from fingerprints or blood splatters, the same can be said about the potential information captured from packet sniffers. In this lab, I will be analyzing a capture file with two packet sniffing programs, Wireshark and NetworkMiner, in addition to checking the file with the IDS software Snort to see if there were any intrusions or breaches.
 
