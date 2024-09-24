@@ -1,5 +1,5 @@
 title: Event Analysis
 description: Analyzing captured traffic and investigating a potential cyber atttack
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
